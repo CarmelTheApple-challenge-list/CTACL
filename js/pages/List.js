@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Length Of The Level</div>
-                            <p>{{ level.length || '0 seconds' }}</p>
+                            <p>{{ level.length || '0 minutes 0 seconds' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
